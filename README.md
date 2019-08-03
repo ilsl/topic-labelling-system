@@ -42,5 +42,3 @@ Open an run each of the notebooks in sequence e.g 1.. 6.
 ## Acknowledgments
 
 * https://www.analyticsvidhya.com/blog/2016/08/beginners-guide-to-topic-modeling-in-python/
-* Inspiration
-* etc
