@@ -6,9 +6,20 @@ These instructions will allow you to run these notebookson your local machine fo
 
 ### Prerequisites
  * [Jupyter Notebook](https://jupyter.org/install) - web-based interactive computational environment used for this project
- * [Python 3] (https://www.python.org/downloads/) - the language used for this project
+ * [Python 3](https://www.python.org/downloads/) - the language used for this project
  ```
-
+ 
+pip install numpy
 pip install gocept.pseudonymize
+pip install matplotlib
+pip install seaborn
+pip install wordcloud
+pip install nltk
+pip install emoji
+pip install tokenizer
+pip install spellchecker
+pip install scikit-learn
+pip install gensim
+pip install pyLDAvis
 
 ```
