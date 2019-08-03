@@ -23,3 +23,24 @@ pip install gensim
 pip install pyLDAvis
 
 ```
+### Running Code
+Open up a terminal session and navigate to the root of this project. 
+Start Jupyer Notebooks by running the following command:
+```
+
+juypter notebook
+
+```
+
+Open an run each of the notebooks in sequence e.g 1.. 6.
+
+
+## Authors
+
+* **Isobel Jones**
+
+## Acknowledgments
+
+* https://www.analyticsvidhya.com/blog/2016/08/beginners-guide-to-topic-modeling-in-python/
+* Inspiration
+* etc
